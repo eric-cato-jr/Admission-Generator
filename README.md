@@ -26,4 +26,5 @@ The application demonstrates conditional logic, counters, and decision-based pro
 
 ## Output
 The screenshot below demonstrates an admission decision and the running totals for accepted and rejected applicants.
-Screenshot 2026-02-03 213152.png
+![Admission Generator Output](Screenshot%202026-02-03%20213152.png)
+
